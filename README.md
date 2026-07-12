@@ -12,7 +12,7 @@
 
 Front-end developer with an obsession with UX|UI and accessibility. I love turning ideas into websites with stunning designs and animations ✨.
 
-🔭 &nbsp;I'm currently working on **I'm currently working on a full-stack mobility application**
+🔭 &nbsp;I'm currently working on **I'm currently working on a full-stack student mobility application**
 
 ### 🛠️ Tech Stack
 
